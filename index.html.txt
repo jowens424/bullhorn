@@ -1,3 +1,5 @@
+<!-- Bullhorn Web Project -->
+
 <!-- First Image Overlay -->
 
 <div class="card bg-dark text-white">
@@ -42,8 +44,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali</
   </div>
 </div>
 
-
-
 <!-- Navigation Bar -->
 
 <div class="nav-bar">
@@ -62,7 +62,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali</
       </li>
     </ul>
 </div>
-
 
 <!-- Bottom Container -->
 
