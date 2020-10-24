@@ -1,0 +1,91 @@
+<!-- First Image Overlay -->
+
+<div class="card bg-dark text-white">
+  <img class="card-img" src="https://images.pexels.com/photos/3875821/pexels-photo-3875821.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500">
+  <div class="card-img-overlay">
+    <h2 class="card-title">Our customers are <br> changing the world</h2>
+    <p class="card-text">Bullhorn fosters a culture of innovation, philanthropy, <br> and inclusion, driven by our core values and a team of <br> experienced leaders.</p>
+  </div>
+</div>
+
+<!-- Text Left Container -->
+
+<h3 class="card-title">Our customers give human beings security, purpose, and dignity</h3>
+<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+sed do eiusmod tempor incididunt ut labore et dolore magna alialiqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali</p>
+<img class="card-img-top" src="https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=1060" ?text="Image" cap"="" alt="Card image cap">
+
+<!-- Center Card 3 Bulls -->
+
+<div class="card-group">
+  <div class="card">
+  <h5 class="card-title">One Team</h5>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlCY_SKucMm1Tuz58QWzNlWu3KdLIR6IwPcDX48vd61G7IbaUonKK-DqvqT1TzHZ4JuPKubwCM0X0y3eQOEsou1UahCTNu7-f5ASEy&amp;usqp=CAU&amp;ec=45714078" class="card-img-mid" alt="bull">
+    <div class="card-body">
+      <p class="card-description">Lorem ipsum dolor sit amet, consectuetur adipiscing elit, sea do elusmod tempor incididunt ut labore et dol.</p>
+    </div>
+  </div>
+  <div class="card">
+  <h5 class="card-title">One Truth</h5>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlCY_SKucMm1Tuz58QWzNlWu3KdLIR6IwPcDX48vd61G7IbaUonKK-DqvqT1TzHZ4JuPKubwCM0X0y3eQOEsou1UahCTNu7-f5ASEy&amp;usqp=CAU&amp;ec=45714078" class="card-img-mid" alt="bull">
+    <div class="card-body">
+      <p class="card-description">Lorem ipsum dolor sit amet, consectuetur adipiscing elit, sea do elusmod tempor incididunt ut labore et dol.</p>
+    </div>
+  </div>
+  <div class="card">
+    <h5 class="card-title">One Platform</h5>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlCY_SKucMm1Tuz58QWzNlWu3KdLIR6IwPcDX48vd61G7IbaUonKK-DqvqT1TzHZ4JuPKubwCM0X0y3eQOEsou1UahCTNu7-f5ASEy&amp;usqp=CAU&amp;ec=45714078" class="card-img-mid" alt="bull3">
+    <div class="card-body">
+      <p class="card-description">Lorem ipsum dolor sit amet, consectuetur adipiscing elit, sea do elusmod tempor incididunt ut labore et dol.</p>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Navigation Bar -->
+
+<div class="nav-bar">
+<ul class="nav nav-pills card-header-pills">
+      <li class="nav-list">
+        <a class="nav-link" href="#">Ownership</a>
+      </li>
+      <li class="nav-list">
+        <a class="nav-link" href="#">Energy</a>
+      </li>
+      <li class="nav-list">
+        <a class="nav-link" href="#">Service</a>
+      </li>
+        <li class="nav-list">
+        <a class="nav-link" href="#">Be Human</a>
+      </li>
+    </ul>
+</div>
+
+
+<!-- Bottom Container -->
+
+<img class="card-img-bottom" src="https://images.pexels.com/photos/3810754/pexels-photo-3810754.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260">
+<h2 class="card-title">Innovating for the recruiting
+industry for almost 20 years</h2>
+<p class="card-text">Lorem ipsum dolor sit amet, consectuetur adipiscing elit, sea do elusmod tempor incididunt ut labore et dolore magna alialiqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali</p>
+
+<!-- Bottom Navigation -->
+
+<div class="bottom-nav">
+<ul class="nav">
+  <li class="nav-btn">
+    <a class="nav-link active" href="#"><i class="fa fa-circle" aria-hidden="true"></i></a>
+  </li>
+  <li class="nav-btn">
+    <a class="nav-link" href="#"> O </a>
+  </li>
+  <li class="nav-btn">
+    <a class="nav-link" href="#"> O </a>
+  </li>
+  <li class="nav-btn">
+    <a class="nav-link" href="#"> O </a>
+  </li>
+</ul>
+</div>
