@@ -66,11 +66,18 @@ body {
 	padding-top: 15px;
 }
 
+div .card-body {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
 .bottom-nav {
 	display: flex;
 	justify-content: center;
 	padding: 20px;
 }
+
 
 .nav-bar {
 	display: flex;
@@ -86,11 +93,20 @@ body {
 	font-weight: bold;
 }
 
+.nav-btn {
+	color: grey;
+}
+
 .nav-list:hover {
     text-decoration: underline;
 		text-decoration-color: orange;
 }
 
+
+.fa {
+	color: grey;
+	height: auto;
+}
 
 div#footer-widget {
 	display: none;
