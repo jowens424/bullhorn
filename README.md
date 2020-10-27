@@ -38,6 +38,8 @@ Using the selector .card-group > .card I was able to change the background color
 
 Selector .card-group img border-radius allowed for image editing to better reflect the image on the template
 
+**final update** added "text-align: center" to reflect template text.
+
 # Navigation Bar
 
 Using bootstrap component Navs, I was able to create a flex-box starting with the Ownership item. I added a .nav-list:hover selector to simulate the underlined text.
@@ -53,6 +55,8 @@ I also experimented with using both the bootstrap components "Jumbotron" and "Ca
 # Bottom Navigation
 
 Using bootstrap component Navs, I was able to create a flex-box and used font awesome icons to create the filled in bubble. CSS selector .bottom-nav justify content allowed for centering.
+
+**final update** added font awesome circle icons
 
 
 
